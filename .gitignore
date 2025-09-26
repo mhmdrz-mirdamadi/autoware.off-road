@@ -7,3 +7,4 @@ data_process/create_masks/outputs/
 *.png
 data/
 runs/
+*.ipynb
